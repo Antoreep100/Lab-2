@@ -1,5 +1,5 @@
 using System;
-public class BankAccount
+public static class BankAccount
 {
   
     public static double rate=0.05;
